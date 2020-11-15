@@ -1,19 +1,19 @@
 /* body */
 body {
-    background-color: #D7BDE2 ;
+    background-color: #fff9de;
     margin: 0;
 }
 
 /* 標題1*/
 h1 {
     font-size: 3em;
-    color: #D7BDE2;
+    color: #566573  ;    
     text-align: center;
 }
 
 /* 選單 */
 .navigation ul {
-    background-color: #000000;
+    background-color: #E6B0AA ;
     margin: 0;
     padding: 4px;
     text-align: center;
@@ -24,18 +24,18 @@ h1 {
     margin: 0 8px;
 }
 .navigation ul li a {
-    color: #F4D03F;
+    color: #ffffff;
     text-decoration: none;
 }
 .navigation ul li a:hover {
-    color: #76D7C4;
+    color: #34495E;
     text-decoration: underline;
 }
 
 /* 主視覺 */
 .mainvisual {
     background-color: #D7BDE2;
-    border-bottom: solid 3px #000000;
+    border-bottom: solid 3px #D98880;
 }
 .mainvisual img {
     display: block;
@@ -51,7 +51,7 @@ article {
 
 /* 背景色・文字色 */
 #profile {
-    background-color: #76D7C4;
+    background-color: #D98880;
     color: #ffffff;
 }
 
@@ -78,7 +78,7 @@ h2 {
 }
 
 h3 {
-    border-left: solid 6px #6b3008;
+    border-left: solid 6px #D98880;
     padding-left: 6px;
 }
 
@@ -88,11 +88,11 @@ table {
     width: 100%;
 }
 th,td {
-    border: solid 1px #76D7C4;
+    border: solid 1px #D98880;
     padding: 16px;
 }
 th {
-    background-color: #76D7C4;
+    background-color: #D98880;
 }
 
 /* 作品集 */
@@ -119,7 +119,7 @@ th {
 
 /* 著作權 */
 .copyright {
-    border-top: solid 3px #000000;
+    border-top: solid 3px #D98880;
     text-align: center;
 }
 
