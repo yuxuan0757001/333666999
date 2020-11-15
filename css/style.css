@@ -1,13 +1,13 @@
 /* body */
 body {
-    background-color: #76D7C4 ;
+    background-color: #F4D03F ;
     margin: 0;
 }
 
 /* 標題1*/
 h1 {
     font-size: 3em;
-    color: #76D7C4;
+    color: #F4D03F;
     text-align: center;
 }
 
@@ -24,7 +24,7 @@ h1 {
     margin: 0 8px;
 }
 .navigation ul li a {
-    color: #76D7C4;
+    color: #F4D03F;
     text-decoration: none;
 }
 .navigation ul li a:hover {
